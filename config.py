@@ -1,5 +1,5 @@
 from aiogram.dispatcher.filters.state import State, StatesGroup
-API_KEY = '7516662169:AAEPRfniZ8JhRxV42xFKMB9aKPagfknenIw'
+API_KEY = ''
 
 class UserState(StatesGroup):
     age = State()
